@@ -12,6 +12,10 @@ h3{
     color: #ffffff;
     padding-top: 2%;
 }
+h5{
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 10%;
+}
 .meetings_events{
     background-color: #cccccc;
 }
@@ -138,7 +142,7 @@ i{
     margin-left: 25px;
     margin-right: 25px;
     text-align: center;
-    width: 100px;
+    width: 128px;
     height: 40px;
     padding-top: 10px;
 }
@@ -164,3 +168,16 @@ i{
     color: #6c757d;
     font-size:14px;
 }
+
+.sponsors-exhibitors-img{
+    width: 100% !important;
+    height: 70px;
+    top: 30%;
+    position: relative;
+
+}
+
+/* .DMAI{
+    width:100px !important;
+    height: 100px;
+} */
