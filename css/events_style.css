@@ -172,8 +172,8 @@ i{
 .sponsors-exhibitors-img{
     width: 100% !important;
     height: 70px;
-    top: 30%;
-    position: relative;
+    /* top: 30%;
+    position: relative; */
 
 }
 
@@ -181,3 +181,26 @@ i{
     width:100px !important;
     height: 100px;
 } */
+
+.card-subtitle{
+    color: #060166 !important;
+}
+.card-text small{
+    color: #060166 !important;
+}
+
+.card-subtitle i{
+    color: #060166 !important;
+}
+
+.col-4 img{
+    width: 100%;
+    height: 80px;
+    /* top: 10% ;
+    position: relative; */
+    /* padding-top: 50px !important; */
+}
+
+.container{
+    padding-right: 35px !important;
+}

@@ -44,7 +44,7 @@ h3{
     color: #ffffff;
     font-size: 10px;
     padding-top: 5px;
-    text-align: justify;
+    text-align: center;
     /* margin-left: -40px; */
 }
 
@@ -65,3 +65,18 @@ h3{
 }
 
 /* ================================================================================================ */
+
+.card-subtitle{
+    color: #060166 !important;
+}
+.card-text small{
+    color: #060166 !important;
+}
+
+.card-subtitle i{
+    color: #060166 !important;
+}
+
+.btn-light{
+    margin-left: 10px;
+}
