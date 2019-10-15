@@ -45,7 +45,7 @@ h3{
     font-size: 10px;
     padding-top: 5px;
     text-align: center;
-    /* margin-left: -40px; */
+    margin-left: -9%;
 }
 
 /* ========================================================================================= */
@@ -79,4 +79,14 @@ h3{
 
 .btn-light{
     margin-left: 10px;
+}
+h3{
+    font-size: 15px !important;
+}
+
+div .dashboard-open{
+    margin-left: 10% !important;
+}
+.card-events{
+    margin-left: 7% !important;
 }

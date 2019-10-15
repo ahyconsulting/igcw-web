@@ -104,7 +104,7 @@ i{
     width: 300px;
     height: 300px;
     padding: 50px;
-    margin-left: 70px;
+    margin-left: 17px;
 
 }
 
@@ -125,6 +125,9 @@ i{
     height: 40px;
     padding-top: 15px;
 }
+.badge{
+    white-space: normal !important;
+}
 
 .speaker_img{
     border-radius: 50%;
@@ -142,9 +145,10 @@ i{
     margin-left: 25px;
     margin-right: 25px;
     text-align: center;
-    width: 128px;
+    width: 86px;
     height: 40px;
     padding-top: 10px;
+    
 }
 .sponsors_badge a:active{
     background-color: #619c4b;
@@ -203,4 +207,25 @@ i{
 
 .container{
     padding-right: 35px !important;
+}
+.card-events{
+    margin-left: 7% !important;
+    max-width: none !important;
+}
+.col-12 .sponsor-body{
+    margin-right: 30px;
+}
+
+h3{
+    font-size: 15px !important;
+}
+div .dashboard-open{
+    margin-left: 10% !important;
+}
+
+/* .card .mb3{
+    padding-right: 25px !important;
+} */
+a:link{
+    text-decoration: none !important;
 }
